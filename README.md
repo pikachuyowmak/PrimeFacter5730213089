@@ -8,7 +8,7 @@
     Prime => PrimeFactor
     Primenumber => generate
     
-ควรตัด format code ก่อน commit
+ควรจัด format code ก่อน commit
 
 น่าจะเป็นแรงบันดารใจให้ TriplemindSk/PrimeFactor5630213008
 
